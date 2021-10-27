@@ -1,0 +1,67 @@
+.img-circle {
+	height: 170px;
+	border-radius: 30%;
+}
+
+body{
+	background-color: FEF5ED;
+	color: 6B4F4F;
+	font-family: Arial;
+	text-align: center;
+}
+h1, h2 {
+	font-family: helvetica;
+	
+}
+
+h1 {
+	color: E1578A;
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 30px;
+}
+
+h2{
+	color: E1578A;
+	font-size: 30px;
+	letter-spacing: 2;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+	color: darkblue;
+}
+a:hover {
+	color:  hotpink;
+}
+/* Custom design with class */
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+.card-white {
+	background-color: whitesmoke;
+	padding: 60px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 30px;
+	margin: 20px 0px;
+}
+
+.bouton {
+	background-color: purple;
+	color: white;
+	padding: 15px 40px;
+	border-radius: 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.logo{
+	height: 50px;
+}
+
+}
